@@ -1,0 +1,5 @@
+bpy
+pillow
+OpenEXR
+argparse
+opencv-python
